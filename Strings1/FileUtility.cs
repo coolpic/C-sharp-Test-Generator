@@ -8,7 +8,7 @@ using TestConditions;
 namespace Strings
 {
     /// <summary>
-    /// This is the class implementing the required functionality for the programming exercise.
+    /// This is the class implementing sample functionality to be tested.
     /// The PreCondition and PostCondition attributes are added to provide meta information for 
     /// a simple test generator I added to the exercise. These attributes allow to generate code 
     /// similar or identical to the manually writted NUnit test file StringsTest.cs
